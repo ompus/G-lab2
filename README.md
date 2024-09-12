@@ -1,1 +1,1 @@
-# ompus-G-lab2
+# G-lab2
